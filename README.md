@@ -8,7 +8,7 @@ Welcome to my personal portfolio! This website introduces myself, showcasing my 
 
 ## Live Demo
 You can view the live version of my portfolio here:  
-[Live Demo](https://your-live-demo-link.com)
+[Live Demo](https://sujalpeswaniportfolio.vercel.app/#home)
 
 ## Technologies Used
 - **React.js**: JavaScript library for building user interfaces.
