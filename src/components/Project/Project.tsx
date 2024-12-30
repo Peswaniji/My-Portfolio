@@ -23,7 +23,7 @@ export function Project() {
                 </a> </div>
             </header>
             <div className="body">
-              <h3>E-watse managment web app</h3>
+              <h3>E-waste management web app</h3>
               <p> Developed a responsive website with a user-friendly interface, increasing engagement by 30%. Integrated PHP back-end for efficient data handling, reducing query processing time by 20%. Optimized forms and improved performance with JavaScript, cutting processing time by 40% and improving load times by 35%. Conducted extensive testing, reducing errors by 90% and boosting user satisfaction to 4.8/5. </p>
             </div>
             <footer> <ul className="tech-list"> <li>PHP</li> <li>Javascript</li> <li>Bootstrap</li> </ul> </footer>
